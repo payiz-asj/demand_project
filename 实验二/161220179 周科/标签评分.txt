@@ -1,0 +1,43 @@
+candidate 候选人
+确定为下一个版本中可能修复的问题的问题
+优
+
+editor-core 编辑核心
+编辑器基本功能
+优
+
+file-encoding 文件编码
+文件编码类型问题
+中
+
+freeze-slow-crash 冻结慢速崩溃
+VS Code崩溃，性能和冻结问题
+差
+
+important 重要
+确定为高优先级的问题
+优
+
+invalid 无效
+确定为不相关或无效的问题
+差
+
+iteration-plan 迭代计划
+VS Code-即将推出的迭代计划
+中
+
+perf 性能
+性能问题
+优
+
+plan-item 计划项目
+VS Code-即将推出的计划项目
+中
+
+search 搜索
+搜索小部件和操作问题
+差
+
+smoke-test 冒烟测试
+冒烟测试问题
+差
